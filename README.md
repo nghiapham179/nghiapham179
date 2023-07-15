@@ -5,7 +5,9 @@
 - 📫 How to reach me via https://www.linkedin.com/in/nghia-pham-769911283/
 - 💬 Speak Vietnamese, English
 -  💜 Like Python, C/C++
--  🔬 Focus on Computer Vision,
+-  🔬 Focus on Computer Vision
+-  
+   <a href=#><img src="contributions.svg"></a>
 
 <!---
 nghiapham179/nghiapham179 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
