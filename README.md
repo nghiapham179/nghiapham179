@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on linkedin
 - 📫 How to reach me via https://www.linkedin.com/in/nghia-pham-769911283/
 - 💬 Speak Vietnamese, English
--  💜 Like Python, C/C++
--  🔬 Focus on Computer Vision
+-  💜 Like Python, C/C++, java
+-  
 -  
    <a href=#><img src="contributions.svg"></a>
 
