@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @nghiapham179
-- 👀 I’m interested in watching flims
-- 🌱 I’m currently learning FPT university with major of computer science
-- 💞️ I’m looking to collaborate on linkedin
-- 📫 How to reach me via https://www.linkedin.com/in/nghia-pham-769911283/
-- 💬 Speak Vietnamese, English
--  💜 Like Python, C/C++, java
--  
--  
+### Hi, I'm Nghia Pham 👋
+
+- 🎓 Studying Information Systems at FPT University
+- 🎯 Aiming for a career as a Business Analyst (BA)
+- 💻 Core languages: Python, C/C++, Java
+- 🎬 Interests: film, photography
+- 🤝 Open to collaboration — always interested in connecting with fellow developers and students
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/nghia-pham-769911283/)
+- 🌐 Languages: Vietnamese, English
    <a href=#><img src="contributions.svg"></a>
 
 <!---
